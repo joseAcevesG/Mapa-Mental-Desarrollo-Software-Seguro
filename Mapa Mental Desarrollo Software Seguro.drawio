@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T01:51:32.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="MgOKzL8JK8QlE-a-bHRK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T01:53:09.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7C1JS7t8y9i8uu6UCJ0s" version="21.6.8" type="github">
   <diagram name="Página-1" id="p4c8h5SbDa63zaMFKd4T">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-4" target="2xnvW9ZLzuA46oWAMYpB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-4" target="2xnvW9ZLzuA46oWAMYpB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-4" target="2xnvW9ZLzuA46oWAMYpB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-4" value=" Riesgos de Seguridad en Desarrollo de Software" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="10" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-12" target="2xnvW9ZLzuA46oWAMYpB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-12" value="Riesgos de Seguridad en el Desarrollo de Software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-18" target="2xnvW9ZLzuA46oWAMYpB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-18" target="2xnvW9ZLzuA46oWAMYpB-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-18" target="2xnvW9ZLzuA46oWAMYpB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-18" target="2xnvW9ZLzuA46oWAMYpB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-18" target="2xnvW9ZLzuA46oWAMYpB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-18" value="Tecnologías Disponibles para PyMEs en México" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xnvW9ZLzuA46oWAMYpB-26" target="2xnvW9ZLzuA46oWAMYpB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-26" value="Áreas de Fallas de Software Explotables por un Gobierno Enemigo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-27" value="Ciberataques y Fugas de Datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-28" value="Vulnerabilidades de Software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-29" value="Desarrollo rápido y presión por lanzamientos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-30" value="Ingeniería Social y Phishing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-31" value="Fugas de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-32" value="Dependencia de terceros y cadenas de suministro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-33" value="Desarrollo de software complejo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-34" value="Firewalls y Antivirus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-35" value="Sistemas de Detección y Prevención de Intrusiones (IDS/IPS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-36" value="Autenticación de Dos Factores (2FA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-37" value="Cifrado y Seguridad en la Nube" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-38" value="Educación en Ciberseguridad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-39" value="Vulnerabilidades en el Software y Sistema Operativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-40" value="Aplicaciones Web y APIs Vulnerables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-41" value="Desbordamientos de Memoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-42" value="Vulnerabilidades en Protocolos de Red" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-43" value="Uso de Credenciales Débiles o Predeterminadas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-44" value="Puertas Traseras (Backdoors)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-45" value="Ataques de Día Cero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xnvW9ZLzuA46oWAMYpB-46" value="Fugas de Información" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
